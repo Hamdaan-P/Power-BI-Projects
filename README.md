@@ -1,3 +1,12 @@
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?logo=powerbi)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-Portfolio-blue)
+![Customer Segmentation](https://img.shields.io/badge/Customer%20Segmentation-Project-brightgreen)
+![Sales Analysis](https://img.shields.io/badge/Sales%20Analysis-Dashboard-blueviolet)
+![HR Analytics](https://img.shields.io/badge/HR%20Analytics-Data%20Storytelling-orange)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Stars](https://img.shields.io/github/stars/Hamdaan-P/Power-BI-Projects?style=social)
+
+
 # Power BI Projects
 
 This repository compiles all of my Power BI projects in one place. Below you'll find links to each individual Power BI repository:
