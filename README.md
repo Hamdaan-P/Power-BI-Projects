@@ -22,6 +22,5 @@ Smartphone market competitor analysis using Power BI.
 ### 6. [PowerBI Diabetes Patient Analysis Dashboard](https://github.com/Hamdaan-P/PowerBI--Diabetes-Patient-Analysis-Dashboard)
 Diabetes patient data analysis and visualization dashboard.
 
-## About
 
-This repository serves as a central hub for all my Power BI projects, making it easier to navigate and explore my data visualization work.
+
